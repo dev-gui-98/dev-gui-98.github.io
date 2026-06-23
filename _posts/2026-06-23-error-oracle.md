@@ -4,7 +4,7 @@ title: "ORA-01861 오류 해결 과정"
 date: 2026-06-23 09:00:00 +0900
 categories: [Troubleshooting]
 tags: [Oracle, SQL, Error]
---------------------------
+---
 
 # ORA-01861 오류 해결 과정
 
