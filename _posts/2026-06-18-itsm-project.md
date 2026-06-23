@@ -8,7 +8,6 @@ image:
 path: /assets/img/projects/itsm-banner.png
 ---
 
-# ITSM 시스템 유지보수 및 기능 개선
 
 > 다양한 요구사항을 분석하고 기능 개선 및 데이터 검증 업무를 수행한 프로젝트입니다.
 

@@ -6,8 +6,6 @@ categories: [Troubleshooting]
 tags: [Oracle, SQL, Error]
 ---
 
-# ORA-01861 오류 해결 과정
-
 ## 문제 상황
 
 데이터 조회 기능을 테스트하던 중 다음과 같은 오류가 발생하였습니다.
